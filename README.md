@@ -1,2 +1,9 @@
 # gutils
-A small library containing general purpose utilities and functions for my Go projects
+A utility collection I use for various projects.
+
+Contains:
+ - Discord logging
+ - Method profiling
+ - Asynchronous scheduling
+ - Networking utilities
+ - Binary updates from GoReleaser repositories
