@@ -7,3 +7,4 @@ Contains:
  - Asynchronous scheduling
  - Networking utilities
  - Binary updates from GoReleaser repositories
+ - TLS Wrapper for http servers
